@@ -1,0 +1,11 @@
+[
+  {
+    "model": "accounts.users",
+    "pk": 1,
+    "fields": {
+      "first_name": "Ankit",
+      "last_name": "Verma",
+      "email": "ankit@hellooffice.com"
+    }
+  }
+]
